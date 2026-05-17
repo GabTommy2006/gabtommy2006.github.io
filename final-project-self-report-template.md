@@ -81,7 +81,7 @@ _- User Display Query: Created a query to display users on the website (later re
 
 _- Modal Schema: Designed the schema for the task detail modal._
 
-**Bằng chứng đóng góp:**
+**Evidence of contribution:**
 
 _- Commit 56555e2 - Branch phung_
 
@@ -133,11 +133,11 @@ _Unfinished_
 
 _Unfinished_
 
-**Khó khăn gặp phải:**
+**Problems:**
 
 _None_
 
-**Đánh giá bản thân:** _(1–10)_
+**Self-Assessment:** _(1–10)_
 
 ---
 
