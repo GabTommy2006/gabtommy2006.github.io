@@ -11,9 +11,9 @@
 
 ## Task 1 — Planning & Setup
 
-**Week** _15/4/2026 - 1/5/2026_
+**Week:** _15/4/2026 - 1/5/2026_
 
-**Work**
+**Work:**
 
 _- From April 15 to April 28, the team brainstormed ideas for a restaurant reservation management website, but it was unsuccessful._
 
@@ -25,102 +25,128 @@ _- At this point, the team started designing the to-do list website and named it
 
 **Evidence of contribution:**
 
-_(Link commits, issues, PR, hoặc ảnh chụp màn hình)_
+_- File README.md in GitHub repository_
 
-**Khó khăn gặp phải:**
+_- Google Docs link: https://docs.google.com/document/d/1jsn78MfRzRtSypJJ78kivTvWFwRcyxbSAgHTDbM6Xyc/edit?usp=sharing_
 
-_(Mô tả ngắn — có thể để trống nếu không có)_
+**Problems:**
 
-**Đánh giá bản thân:** _(1–10)_
+_During the initial phase, the team struggled with the lack of a clear direction for the restaurant reservation website._
+
+_I proposed several ideas for the platform, such as a direct chat feature between users and restaurant owners, and an upfront payment system to secure bookings and prevent fake reservations. Unfortunately, all of these ideas were ultimately unsuccessful._
+
+_Following the class on April 29, the team decided to pivot to a new project topic: a to-do list application._
+
+**Self-Assessment:** _10/10_
 
 ---
 
 ## Task 2 — UI Implementation
 
-**Tuần:** _(VD: Tuần 1–2, ngày DD/MM – DD/MM)_
+**Week:** _2/5/2026 - 18/5/2026_
 
-**Công việc đã làm:**
+**Work:**
 
-_(Liệt kê các trang, component, tính năng bạn đã code)_
+_- Task Details & Drag-and-Drop: Added a task detail view when clicking on each card, and implemented drag-and-drop functionality for cards within the project (initially completed in branch phung02, but completely refactored by Tony on the main branch).._
 
-**Bằng chứng đóng góp:**
+_- Task Assignment & Deadlines: Added the ability to assign members and set deadlines (including specific date and time) upon task creation._
 
-_(Link commits, issues, PR, hoặc ảnh chụp màn hình)_
+_Calendar Integration: Integrated a calendar feature into the website (original idea by Xuan Mai, she also completed before in branch change-dashboard and update, and I rebuilted it)_
 
-**Khó khăn gặp phải:**
+**Evidence of contribution:**
 
-_(Mô tả ngắn)_
+_- Commit 5d433c8 - Branch phung02: Improve loading performances in dashboard and stats_
 
-**Đánh giá bản thân:** _(1–10)_
+_- Commit 87ffcc0 - Branch phung02: Adding task detail page, improve loading performance, fixing board drag_
+
+_- Commit 0731d1c - Branch phung02: Adding add mem and due date_
+
+_- Commit 8ca14b3 - Branch add-calendar: Adding calendar to page_
+
+**Problems:**
+
+_While I experienced very few conflicts or errors—primarily limited to .env and .env.local file mismatches or occasional incorrect URLs—there was one major incident._
+
+**Self-Assessment** _8/10_
 
 ---
 
 ## Task 3 — Database Integration
 
-**Tuần:** _(VD: Tuần 2, ngày DD/MM – DD/MM)_
+**Week** _2/5/2026 - 18/5/2026_
 
 **Công việc đã làm:**
 
-_(Liệt kê cụ thể: schema design, API endpoints, queries, dynamic pages bạn đã làm)_
+_- User Display Query: Created a query to display users on the website (later revised by Le Hoang)._
+
+_- Modal Schema: Designed the schema for the task detail modal._
 
 **Bằng chứng đóng góp:**
 
-_(Link commits, issues, PR)_
+_- Commit 56555e2 - Branch phung_
 
-**Khó khăn gặp phải:**
+_- Commit 5d433c8 - Branch phung02: Improve loading performances in dashboard and stats_
 
-_(Mô tả ngắn)_
+_- Commit 87ffcc0 - Branch phung02: Adding task detail page, improve loading performance, fixing board drag_
 
-**Đánh giá bản thân:** _(1–10)_
+_- Commit 0731d1c - Branch phung02: Adding add mem and due date_
+
+_- Commit 8ca14b3 - Branch add-calendar: Adding calendar to page_
+
+**Problems:**
+
+_A team member accidentally merged a new feature into the main branch, causing a critical issue with the Supabase database that required a significant amount of time to resolve._
+
+**Self-Assessment:** _7/10_
 
 ---
 
 ## Task 4 — Optimization
 
-**Tuần:** _(VD: Tuần 2–3, ngày DD/MM – DD/MM)_
+**Week:** _Unfinished_
 
-**Công việc đã làm:**
+**Work:**
 
-_(Liệt kê: Lighthouse fixes, Google Analytics setup, Sentry setup...)_
+_Unfinished_
 
-**Bằng chứng đóng góp:**
+**Evidence of contribution:**
 
-_(Link commits, ảnh Lighthouse scores, ảnh dashboard)_
+_Unfinished_
 
-**Khó khăn gặp phải:**
+**Problems:**
 
-_(Mô tả ngắn)_
+_None_
 
-**Đánh giá bản thân:** _(1–10)_
+**Self-Assessment:** _(1–10)_
 
 ---
 
 ## Task 5 — Peer Review
 
-**Tuần:** _(VD: Tuần 3, ngày DD/MM – DD/MM)_
+**Week:** _Unfinished_
 
-**Công việc đã làm:**
+**Work:**
 
-_(Mô tả: bạn đã review nhóm nào, feedback bạn đã gửi, feedback bạn nhận và xử lý thế nào)_
+_Unfinished_
 
-**Bằng chứng đóng góp:**
+**Evidence of contribution:**
 
-_(Link feedback documents, commits liên quan đến implement feedback)_
+_Unfinished_
 
 **Khó khăn gặp phải:**
 
-_(Mô tả ngắn)_
+_None_
 
 **Đánh giá bản thân:** _(1–10)_
 
 ---
 
-## Tổng Kết Đóng Góp Cá Nhân
+## Personal Contribution Summary
 
-**Tóm tắt những gì bạn đã đóng góp cho dự án:**
+**Summary of your contributions to the project:**
 
 _(Viết 3–5 câu mô tả đóng góp tổng thể của bạn — những phần bạn tự hào nhất, kỹ năng bạn học được)_
 
-**Ước tính % đóng góp so với cả nhóm:** _~20%_
+**Estimated % contribution to the team:** _~20%_
 
-**Điểm tự đánh giá tổng thể:** _8/10_
+**Overall Self-Assessment Score:** _8/10_
